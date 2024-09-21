@@ -5,6 +5,7 @@ Duration: 8 hours
 Severity: High
 Affected Systems: Frontend, Backend, Database
 Root Cause: Misconfiguration in the API gateway and outdated dependencies.
+
 ## Incident Overview:
 The web stack debugging incident began when several critical web services started to fail across the platform. Users experienced timeouts, broken pages, and inconsistencies in data fetching. The debugging process uncovered a multi-layered issue affecting the frontend, backend, and database interaction.
 
